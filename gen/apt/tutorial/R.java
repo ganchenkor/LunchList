@@ -15,13 +15,13 @@ public final class R {
         public static final int restaurant_icon=0x7f020001;
     }
     public static final class id {
-        public static final int addr=0x7f050005;
-        public static final int linearLayout1=0x7f050000;
-        public static final int linearLayout2=0x7f050003;
-        public static final int name=0x7f050002;
+        public static final int addr=0x7f050001;
+        public static final int delivery=0x7f050005;
+        public static final int name=0x7f050000;
         public static final int save=0x7f050006;
-        public static final int textView1=0x7f050001;
-        public static final int textView2=0x7f050004;
+        public static final int sit_down=0x7f050004;
+        public static final int take_out=0x7f050003;
+        public static final int types=0x7f050002;
     }
     public static final class layout {
         public static final int main=0x7f030000;
